@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\bin\Debug\netcoreapp3.1\CaesarCipherExercise.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\bin\Debug\netcoreapp3.1\CaesarCipherExercise.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\bin\Debug\netcoreapp3.1\CaesarCipherExercise.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\bin\Debug\netcoreapp3.1\CaesarCipherExercise.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\bin\Debug\netcoreapp3.1\CaesarCipherExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\bin\Debug\netcoreapp3.1\CaesarCipherExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\CaesarCipherExercise\obj\Debug\netcoreapp3.1\CaesarCipherExercise.genruntimeconfig.cache
